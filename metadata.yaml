@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '33102'
     url: http://www.gutenberg.org/2009/agents/33102
 description: Renner had a purpose in life, and the Purpose in Life had Renner.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28048#Shepherd-of-the-Planets
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-02-11'
 gutenberg_type: Text
