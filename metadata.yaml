@@ -1,0 +1,37 @@
+_repo: Shepherd-of-the-Planets_28048
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L. R.
+    - Summers, L.R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mattox, Alan
+    gutenberg_agent_id: '33102'
+    url: http://www.gutenberg.org/2009/agents/33102
+description: Renner had a purpose in life, and the Purpose in Life had Renner.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Shepherd of the Planets
+url: http://www.gutenberg.org/ebooks/28048
